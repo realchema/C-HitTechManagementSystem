@@ -1,0 +1,19 @@
+c:\users\jose manuel\documents\visual studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechManagementSystem.exe.config
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechManagementSystem.exe.config
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.Login.resources
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.Properties.Resources.resources
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechManagementSystem.exe
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechManagementSystem.pdb
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.exe
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.pdb
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\FlatUI.dll
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\FlatUI.pdb
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.MIS_Manager.resources
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.Logout.resources
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi_Tech_ClassLibrary1.dll
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi_Tech_ClassLibrary1.pdb
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi_Tech_ClassLibrary1\Hi_Tech_ClassLibrary1\bin\Debug\Hi_Tech_ClassLibrary1.dll
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi_Tech_ClassLibrary1\Hi_Tech_ClassLibrary1\bin\Debug\Hi_Tech_ClassLibrary1.pdb
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi_Tech_ClassLibrary1\Hi_Tech_ClassLibrary1\obj\Debug\Hi_Tech_ClassLibrary1.dll
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi_Tech_ClassLibrary1\Hi_Tech_ClassLibrary1\obj\Debug\Hi_Tech_ClassLibrary1.pdb
+C:\Users\Jose Manuel\Documents\Visual Studio 2015\Projects\Final Project\Hi_Tech_ClassLibrary1\Hi_Tech_ClassLibrary1\obj\Debug\Hi_Tech_ClassLibrary1.csprojResolveAssemblyReference.cache
